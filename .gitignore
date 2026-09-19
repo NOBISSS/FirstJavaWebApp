@@ -1,0 +1,23 @@
+# Maven
+target/
+
+# Eclipse / Spring Tools
+.classpath
+.project
+.settings/
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
